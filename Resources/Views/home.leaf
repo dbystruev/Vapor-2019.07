@@ -1,0 +1,7 @@
+<!doctype html>
+<html>
+    <body>
+    <h1>Добро пожаловать в наш проект!</h1>
+    #embed("footer")
+    </body>
+</html>

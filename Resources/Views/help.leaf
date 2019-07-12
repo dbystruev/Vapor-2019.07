@@ -1,0 +1,13 @@
+<!doctype html>
+<html><body>
+
+#if(topic) {
+    <h1>#capitalize(topic)</h1>
+    <p>#(answer)</p>
+} else {
+    <h1>Неизвестный запрос</h1>
+    <p>Запрос не понят</p>
+}
+
+#embed("footer")
+</body></html>

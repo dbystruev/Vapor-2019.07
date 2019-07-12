@@ -1,0 +1,8 @@
+<!doctype html>
+<html>
+<body>
+<h1>Наша контактная информация</h1>
+<p>Обращайтесь на <a href="https://swiftbook.ru">SwiftBook</a></p>
+#embed("footer")
+</body>
+</html>
