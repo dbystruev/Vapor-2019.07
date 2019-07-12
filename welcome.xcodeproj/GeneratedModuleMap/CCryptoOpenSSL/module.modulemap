@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/dbystruev/Documents/SwiftBook/Lessons/2019.07.12 Vapor/welcome/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}
